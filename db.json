@@ -1,0 +1,132 @@
+{
+    "continentes": [
+        {
+            "id": 1,
+            "name": "América do Norte",
+            "slug": "america-do-norte",
+            "title": "Curabitur non porttitor mi.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
+            "qtd_countries": 10,
+            "qtd_languages": 8,
+            "image": "/ContinentsSlide.svg"
+        },
+        {
+            "id": 2,
+            "name": "América do Sul",
+            "slug": "america-do-sul",
+            "title": "Curabitur non porttitor mi.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
+            "qtd_countries": 23,
+            "qtd_languages": 13,
+            "image": "/ContinentsSlide.svg"
+        },
+        {
+            "id": 3,
+            "name": "Ásia",
+            "slug": "asia",
+            "title": "Curabitur non porttitor mi.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
+            "qtd_countries": 30,
+            "qtd_languages": 72,
+            "image": "/ContinentsSlide.svg"
+        },
+        {
+            "id": 4,
+            "name": "África",
+            "slug": "africa",
+            "title": "Curabitur non porttitor mi.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
+            "qtd_countries": 45,
+            "qtd_languages": 48,
+            "image": "/ContinentsSlide.svg"
+        },
+        {
+            "id": 5,
+            "name": "Europa",
+            "slug": "europa",
+            "title": "Curabitur non porttitor mi.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
+            "qtd_countries": 50,
+            "qtd_languages": 60,
+            "image": "/ContinentsSlide.svg"
+        },
+        {
+            "id": 6,
+            "name": "Oceania",
+            "slug": "oceania",
+            "title": "Curabitur non porttitor mi.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
+            "qtd_countries": 7,
+            "qtd_languages": 15,
+            "image": "/ContinentsSlide.svg"
+        }
+    ],
+    "paises": [
+        {
+            "id": 1,
+            "name": "Estados Unidos",
+            "capital": "Washington, D.C",
+            "id_continente": 1
+        },
+        {
+            "id": 2,
+            "name": "Canadá",
+            "capital": "Ottawa",
+            "id_continente": 1
+        },
+        {
+            "id": 3,
+            "name": "México",
+            "capital": "Cidade do México",
+            "id_continente": 1
+        },
+        {
+            "id": 4,
+            "name": "Brasil",
+            "capital": "Brasília",
+            "id_continente": 2
+        },
+        {
+            "id": 5,
+            "name": "Argentina",
+            "capital": "Buenos Aires",
+            "id_continente": 2
+        },
+        {
+            "id": 6,
+            "name": "Colômbia",
+            "capital": "Bogotá",
+            "id_continente": 2
+        },
+        {
+            "id": 7,
+            "name": "China",
+            "capital": "Pequim",
+            "id_continente": 3
+        },
+        {
+            "id": 8,
+            "name": "Japão",
+            "capital": "Tóquio",
+            "id_continente": 3
+        },
+        {
+            "id": 9,
+            "name": "África do Sul",
+            "capital": "Pretória",
+            "id_continente": 4
+        },
+        {
+            "id": 10,
+            "name": "Alemanha",
+            "capital": "Berlim",
+            "id_continente": 5
+        },
+        {
+            "id": 11,
+            "name": "Autrália",
+            "capital": "Camberra",
+            "id_continente": 6
+        }
+    ]
+}
