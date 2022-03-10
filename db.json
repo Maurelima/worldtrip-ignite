@@ -8,7 +8,9 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
             "qtd_countries": 10,
             "qtd_languages": 8,
-            "image": "/ContinentsSlide.svg"
+            "qtd_cities": 15,
+            "image": "/ContinentsSlide.svg",
+            "banner": "/ContinentsSlide.svg"
         },
         {
             "id": 2,
@@ -18,7 +20,9 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
             "qtd_countries": 23,
             "qtd_languages": 13,
-            "image": "/ContinentsSlide.svg"
+            "qtd_cities": 22,
+            "image": "/ContinentsSlide.svg",
+            "banner": "/ContinentsSlide.svg"
         },
         {
             "id": 3,
@@ -28,7 +32,9 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
             "qtd_countries": 30,
             "qtd_languages": 72,
-            "image": "/ContinentsSlide.svg"
+            "qtd_cities": 29,
+            "image": "/ContinentsSlide.svg",
+            "banner": "/ContinentsSlide.svg"
         },
         {
             "id": 4,
@@ -38,7 +44,9 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
             "qtd_countries": 45,
             "qtd_languages": 48,
-            "image": "/ContinentsSlide.svg"
+            "qtd_cities": 30,
+            "image": "/ContinentsSlide.svg",
+            "banner": "/ContinentsSlide.svg"
         },
         {
             "id": 5,
@@ -48,7 +56,9 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
             "qtd_countries": 50,
             "qtd_languages": 60,
-            "image": "/ContinentsSlide.svg"
+            "qtd_cities": 12,
+            "image": "/ContinentsSlide.svg",
+            "banner": "/ContinentsSlide.svg"
         },
         {
             "id": 6,
@@ -58,7 +68,9 @@
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas volutpat ex et est tincidunt vulputate. Nunc ultrices non ligula in hendrerit. Morbi tincidunt orci ante, quis sagittis ante dignissim quis. Curabitur non porttitor mi.",
             "qtd_countries": 7,
             "qtd_languages": 15,
-            "image": "/ContinentsSlide.svg"
+            "qtd_cities": 22,
+            "image": "/ContinentsSlide.svg",
+            "banner": "/ContinentsSlide.svg"
         }
     ],
     "paises": [
@@ -127,6 +139,71 @@
             "name": "Autrália",
             "capital": "Camberra",
             "id_continente": 6
+        }
+    ],
+    "cidades": [
+        {
+            "id": 1,
+            "name": "Nova Iorque",
+            "country": "Estados Unidos",
+            "slug_continent": "america-do-norte",
+            "thumbnail": "/sp.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Toronto",
+            "country": "Canadá",
+            "slug_continent": "america-do-norte",
+            "thumbnail": "/rj.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Cancún",
+            "country": "México",
+            "slug_continent": "america-do-norte",
+            "thumbnail": "/ld.jpg"
+        },
+        {
+            "id": 4,
+            "name": "São Paulo",
+            "country": "Brasil",
+            "slug_continent": "america-do-sul",
+            "thumbnail": "/sp.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Rio de Janeiro",
+            "country": "Brasil",
+            "slug_continent": "america-do-sul",
+            "thumbnail": "/rj.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Xangai",
+            "country": "China",
+            "slug_continent": "asia",
+            "thumbnail": "/ld.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Cidade do Cabo",
+            "country": "África do Sul",
+            "slug_continent": "africa",
+            "thumbnail": "/sp.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Berlin",
+            "country": "Alemanha",
+            "slug_continent": "europa",
+            "thumbnail": "/rj.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Sydney",
+            "country": "Austrália",
+            "slug_continent": "oceania",
+            "thumbnail": "/ld.jpg"
         }
     ]
 }
